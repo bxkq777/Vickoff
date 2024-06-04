@@ -1,0 +1,7 @@
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+cp /path/to/your/file.zip .
+git add file.zip
+git commit -m "Add ZIP file"
+git push origin main
+
